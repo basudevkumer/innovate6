@@ -9,8 +9,8 @@ import Puse from "../assets/puse.png";
 
 const Business = () => {
   return (
-    <section className="py-[100px] my-[100px] bg-[#FEF8E4] ">
-      <div className="max-w-[1320px] mx-auto">
+    <section className="py-[100px] my-[100px] bg-[#FEF8E4] overflow-hidden ">
+      <div className="max-w-[1320px] mx-auto ">
         <div className="grid grid-cols-2 items-center ">
           <div className="relative z-10 ">
             <img
